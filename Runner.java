@@ -12,7 +12,7 @@ public class Runner{
 
 			return false;
 		};
-
+ 
 		System.out.println(perfSquare.perfectCheck(4));
 	}
 	public interface printQuotient{
